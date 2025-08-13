@@ -154,7 +154,6 @@ https://surrit.com/d78b55fb-7e7e-4c68-b0c7-2a2697dbf886/1080p/video.m3u8
 #EXTINF:-1 tvg-id="SONE-388" tvg-logo="https://images4.imagebam.com/60/8b/dd/ME14XC16_o.jpg" group-title="semi jepang",SONE-388
 https://surrit.com/26a0c2d4-bbce-426c-a1c3-7ee9ad5a47d9/1080p/video.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/ff/a6/82/ME14YZOX_o.jpg" group-title="semi jepang",FSDSS-672
 https://surrit.com/d8d4473a-9857-42c8-a1a3-a684b3cf6884/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/e2/d3/6f/ME14YZZ8_o.jpg" group-title="semi jepang",SONE-054
@@ -176,7 +175,6 @@ https://surrit.com/14a93326-4aaf-44ab-b921-71fb64744fa0/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/bb/64/8e/ME14Z0XJ_o.jpg" group-title="semi jepang",ADN-523
 https://surrit.com/6a5bafdd-dd74-471f-88d8-e7e872c50e3e/playlist.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/ff/a6/82/ME14YZOX_o.jpg" group-title="semi jepang",FSDSS-672
 https://surrit.com/d8d4473a-9857-42c8-a1a3-a684b3cf6884/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/e2/d3/6f/ME14YZZ8_o.jpg" group-title="semi jepang",SONE-054
@@ -198,7 +196,6 @@ https://surrit.com/14a93326-4aaf-44ab-b921-71fb64744fa0/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/bb/64/8e/ME14Z0XJ_o.jpg" group-title="semi jepang",ADN-523
 https://surrit.com/6a5bafdd-dd74-471f-88d8-e7e872c50e3e/playlist.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/3f/f5/42/ME14Z172_o.jpg" group-title="semi jepang",DASS-549
 https://surrit.com/279a456c-07ec-483e-849b-0188a7e6b39e/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/2e/85/d7/ME14Z19O_o.jpg" group-title="semi jepang",SONE-248
