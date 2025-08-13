@@ -24,7 +24,6 @@ https://surrit.com/074ef331-83d4-408c-9d0d-0b1eb69626a8/720p/video.m3u8
 #EXTINF:-1 tvg-id="grup3" tvg-name="OFJE-505 " tvg-logo="https://thumbs4.imagebam.com/d5/8e/54/ME14TSGK_t.jpg" group-title="semi jepang", OFJE-505
 https://surrit.com/bcd5b63a-0c80-43bb-ad3b-ebed168e256c/720p/video.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-id="YUUKA MURAKAMI" tvg-logo="https://images4.imagebam.com/82/63/b5/ME14TSMZ_o.jpg" group-title="semi jepang",SONE-139
 https://surrit.com/620b85bf-c663-45d6-90e7-e251c67132b5/720p/video.m3u8
 
@@ -156,22 +155,31 @@ https://surrit.com/26a0c2d4-bbce-426c-a1c3-7ee9ad5a47d9/1080p/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/ff/a6/82/ME14YZOX_o.jpg" group-title="semi jepang",FSDSS-672
 https://surrit.com/d8d4473a-9857-42c8-a1a3-a684b3cf6884/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/e2/d3/6f/ME14YZZ8_o.jpg" group-title="semi jepang",SONE-054
 https://surrit.com/3e4e66e0-3a38-4c29-a49f-6864e4a91aca/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/19/a9/de/ME14Z01X_o.jpg" group-title="semi jepang",JUQ-530
 https://surrit.com/b5f0f8ac-9dde-45be-9fb1-cb2e6fde9a43/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/5b/4d/6c/ME14Z049_o.jpg" group-title="semi jepang",MEYD-605
 https://surrit.com/4614999d-1cc4-4676-af70-a8c6934a2069/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/3c/d9/a3/ME14Z083_o.jpg" group-title="semi jepang",NSPS-982
 https://surrit.com/150da10c-0f0a-4c6c-801e-70763d17b572/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/bd/8a/d9/ME14Z0EP_o.jpg" group-title="semi jepang",ADN-639
 https://surrit.com/3c242e0e-9a58-4232-896e-a78c80853b76/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/f0/91/5b/ME14Z0KR_o.jpg" group-title="semi jepang",HMN-655
 https://surrit.com/e49274b7-b1dd-404f-b34d-02f8b2888a92/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/5d/3a/f9/ME14Z0QG_o.jpg" group-title="semi jepang",SDMF-037
 https://surrit.com/e6ebd2ab-90af-4b08-b141-e5e076644893/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/e0/63/8a/ME14Z0UG_o.jpg" group-title="semi jepang",JUL-185
 https://surrit.com/14a93326-4aaf-44ab-b921-71fb64744fa0/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/bb/64/8e/ME14Z0XJ_o.jpg" group-title="semi jepang",ADN-523
 https://surrit.com/6a5bafdd-dd74-471f-88d8-e7e872c50e3e/playlist.m3u8
 
