@@ -422,3 +422,19 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d7ddbeb304e46f38192f31d7d91bfc5:1c524bbe404124d0a4e24bfa75491ca2
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
+#EXTINF:-1 type="iptv" tvg-id="cinemaxasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="FILM",CINEMAX Max
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3284600346800000.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
+#EXTINF:-1 type="iptv" tvg-id="hbofamilyasia.sg" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="FILM",HBO FAMILY Max
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3284600346800000.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
+#EXTINF:-1 type="iptv" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="FILM",HBO Max
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3284600346800000.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
+#EXTINF:-1 type="iptv" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_hitsmovies.png" group-title="1. INDONESIA;HBO DAN FILM",HITS Movies Max
+https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-3284600346800000.mpd
